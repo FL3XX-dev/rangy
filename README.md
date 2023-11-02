@@ -1,3 +1,5 @@
+### This fork includes PR with a vulnerability fix (https://github.com/timdown/rangy/pull/482)
+
 Rangy
 =====
 
